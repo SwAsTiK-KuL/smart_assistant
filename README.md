@@ -1,4 +1,4 @@
-<img width="330" height="755" alt="image" src="https://github.com/user-attachments/assets/b0c7b435-5dfb-4a58-964f-549a4b8b8bc0" /># 🤖 BharatNxt — Smart Assistant App
+App
 
 A Flutter application that simulates a smart AI assistant experience with paginated suggestions, a real-time chat interface, and chat history — built with Clean Architecture, BLoC state management, and GoRouter navigation.
 
